@@ -6,10 +6,13 @@
     <title>Coba git remote</title>
 </head>
 <body>
-    
+
     <h1>hello world!</h1>
     <p>This is a simple paragraph.</p>
     <p>semangat farhan</p>
+    <ul><li>satu</li>
+<li>dua</li>
+<li>tiga</li></ul>
 
 </body>
 </html>
